@@ -10,5 +10,5 @@ A simple chat app made using inbuilt libraries  in python namely socket and tkin
 Clone this repository to your local machine and run the **chatServer.py** file.<br>
 ### Method 1:
 Run the more than one **main.py** file in the local machine. Start Chatting.
-### Method 1:
+### Method 2:
 Run the **main.py** file in one machine and run the same file on some other machine connected to the same local area network(LAN) like systems connected to the same hotspot.
